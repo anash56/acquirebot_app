@@ -171,21 +171,6 @@ Open **http://localhost:8501** in your browser 🎉
 
 ---
 
-## 🎬 Demo
-
-**Try these conversations to explore all features:**
-
-| What to type | What it tests |
-|---|---|
-| `"I want to open a savings account"` | Core savings onboarding flow |
-| `"I need a home loan of 50 lakhs"` | Loan qualification flow |
-| `"I want to start investing, I'm 22"` | Investment recommendation |
-| `"Mujhe account kholna hai"` | Hindi language support |
-| `"Bhai mujhe home loan chahiye"` | Hinglish natural conversation |
-| `"I need insurance for my family"` | Insurance product matching |
-
----
-
 ## 📦 SBI Products Supported
 
 | Category | Products |
@@ -204,9 +189,12 @@ Open **http://localhost:8501** in your browser 🎉
 
 ```
 sbi-acquirebot/
-├── app.py                 # Main Streamlit application
-├── requirements.txt       # Python dependencies
-├── README.md              # Project documentation
+├── app.py                    # Main Streamlit application
+├── requirements.txt          # Python dependencies
+├── README.md                 # Project documentation
+├── .gitignore                # Protects API key from being uploaded
+
+```
 
 ---
 
