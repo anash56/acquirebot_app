@@ -13,7 +13,7 @@
 
 *Identify · Qualify · Convert — through intelligent conversation*
 
-[▶ Watch Demo](#-demo) · [🚀 Quick Start](#-quick-start) · [📐 Architecture](#-architecture)
+[▶ Watch Demo](https://youtu.be/vMAU2cCHtps) · [🚀 Quick Start](#-quick-start) · [📐 Architecture](#-architecture)
 
 </div>
 
@@ -166,8 +166,6 @@ GROQ_API_KEY = "your-groq-api-key-here"
 # 4. Launch the app
 streamlit run app.py
 ```
-
-Open **http://localhost:8501** in your browser 🎉
 
 ---
 
